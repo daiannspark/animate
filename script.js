@@ -1,7 +1,7 @@
 $(document).ready(function(){
     $(".left").click(function(){
         $(".image").animate({
-            left: '+=50px'
+            right: '+=50px'
         });
     });
 
