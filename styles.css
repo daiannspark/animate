@@ -1,7 +1,6 @@
 .image {
     width: 100px;
     height: 100px;
-    /*display: block;*/
     margin: 0 auto;
     position: relative;
 }
@@ -27,5 +26,3 @@
 .buttons span {
     padding: 15px;
 }
-
-/**/
